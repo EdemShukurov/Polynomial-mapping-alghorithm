@@ -1,0 +1,27 @@
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLibTests.dll.config
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLibTests.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLibTests.pdb
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLib.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLib.pdb
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLib.dll.config
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.csprojAssemblyReference.cache
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.csproj.CopyComplete
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLibTests.dll.config
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLibTests.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\bin\Debug\Miller-RabinTestLibTests.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.csprojAssemblyReference.cache
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLibTests\obj\Debug\Miller-RabinTestLibTests.pdb

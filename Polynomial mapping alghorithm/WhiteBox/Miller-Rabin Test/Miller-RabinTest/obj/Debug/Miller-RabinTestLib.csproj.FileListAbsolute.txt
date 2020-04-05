@@ -1,0 +1,13 @@
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\bin\Debug\Miller-RabinTestLib.dll.config
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\bin\Debug\Miller-RabinTestLib.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\bin\Debug\Miller-RabinTestLib.pdb
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.csprojAssemblyReference.cache
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.dll
+C:\Users\User1\source\repos\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLib\bin\Debug\Miller-RabinTestLib.dll.config
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLib\bin\Debug\Miller-RabinTestLib.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLib\bin\Debug\Miller-RabinTestLib.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-RabinTestLib\Miller-RabinTestLib\obj\Debug\Miller-RabinTestLib.csprojAssemblyReference.cache

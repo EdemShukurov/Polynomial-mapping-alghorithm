@@ -1,0 +1,8 @@
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\bin\Debug\netstandard2.0\PolynomialMapping.deps.json
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\bin\Debug\netstandard2.0\PolynomialMapping.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\bin\Debug\netstandard2.0\PolynomialMapping.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\obj\Debug\netstandard2.0\PolynomialMapping.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\obj\Debug\netstandard2.0\PolynomialMapping.AssemblyInfo.fs
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\obj\Debug\netstandard2.0\PolynomialMapping.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\obj\Debug\netstandard2.0\PolynomialMapping.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\PolynomialMapping\obj\Debug\netstandard2.0\PolynomialMapping.fsprojAssemblyReference.cache

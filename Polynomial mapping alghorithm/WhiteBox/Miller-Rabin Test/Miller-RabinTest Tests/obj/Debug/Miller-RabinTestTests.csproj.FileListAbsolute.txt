@@ -1,0 +1,9 @@
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\bin\Debug\Miller-RabinTestLibTests.dll.config
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\bin\Debug\Miller-RabinTestLibTests.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\bin\Debug\Miller-RabinTestLibTests.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\obj\Debug\Miller-RabinTestTests.csprojAssemblyReference.cache
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\obj\Debug\Miller-RabinTestLibTests.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest Tests\obj\Debug\Miller-RabinTestLibTests.pdb

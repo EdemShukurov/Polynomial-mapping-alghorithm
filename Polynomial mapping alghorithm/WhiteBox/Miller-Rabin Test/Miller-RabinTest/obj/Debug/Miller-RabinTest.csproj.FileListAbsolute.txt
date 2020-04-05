@@ -1,0 +1,5 @@
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest\bin\Debug\Miller-RabinTest.dll.config
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest\bin\Debug\Miller-RabinTest.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest\bin\Debug\Miller-RabinTest.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest\obj\Debug\Miller-RabinTest.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Miller-Rabin Test\Miller-RabinTest\obj\Debug\Miller-RabinTest.pdb

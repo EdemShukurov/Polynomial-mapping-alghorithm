@@ -1,0 +1,16 @@
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\bin\Debug\netstandard2.0\WhiteBoxNetStandart.deps.json
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\bin\Debug\netstandard2.0\WhiteBoxNetStandart.dll
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\bin\Debug\netstandard2.0\WhiteBoxNetStandart.pdb
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.AssemblyInfoInputs.cache
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.AssemblyInfo.fs
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.dll
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.pdb
+C:\Users\User1\source\repos\WhiteBoxNetStandart\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.fsprojAssemblyReference.cache
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\bin\Debug\netstandard2.0\WhiteBoxNetStandart.deps.json
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\bin\Debug\netstandard2.0\WhiteBoxNetStandart.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\bin\Debug\netstandard2.0\WhiteBoxNetStandart.pdb
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.fsprojAssemblyReference.cache
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.AssemblyInfo.fs
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.dll
+C:\Users\1\Documents\GitHub\Polynomial mapping alghorithm\Polynomial mapping alghorithm\WhiteBox\Polynomial Mapping\WhiteBoxNetStandart\obj\Debug\netstandard2.0\WhiteBoxNetStandart.pdb

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="PolynomialMapping.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="4.8.0-beta01" />
+    <PackageReference Include="MathNet.Numerics.FSharp" Version="4.8.0-beta01" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.6.2" />
+  </ItemGroup>
+
+</Project>
