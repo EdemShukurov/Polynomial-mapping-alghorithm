@@ -7,5 +7,5 @@ This work contains 3 projets:
 
 - "Polynomial Mapping" It's project to create the cryptokeys. It's written by F# programming language.
 
-"Miller-Rabin Test" It's project, that contains the checking whether a number is simple or complex via the Miller-Rabin test. 
+- "Miller-Rabin Test" It's project, that contains the checking whether a number is simple or complex via the Miller-Rabin test. 
 It also contains Unit-test for Miller-Rabin Test :)
